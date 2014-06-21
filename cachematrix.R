@@ -1,4 +1,4 @@
-## these two functions are used to cache the inverse of a matrix 
+## makeCacheMatrix and cacheSolve are used to cache the inverse of a matrix 
 ##so that it doesn't need to be calculated repeatedly
 
 ##makeCacheMatrix creates a list of functions that cache a matrix and it's transpose
